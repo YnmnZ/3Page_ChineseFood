@@ -142,7 +142,7 @@ html {
 	position: absolute;
 	left: 60%;
 	top: 25%;
-	width: 40%;
+	width: 45%;
 	height: 200px;
 }
 
@@ -150,4 +150,297 @@ html {
 	position:relative;
 	width:100%;
 	height:40%;
+}
+
+.cuisineB{
+	position:relative;
+	left: 5%;
+	width:89%;
+	height:100%;
+	  margin: 0px;
+  padding: 0px;
+	background-color: white;
+}
+
+.cuisineLu{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("lu.jpg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineLu:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("luBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineCh{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("chuan.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineCh:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("chuanBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineYue{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("yue.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineYue:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("yueBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineHy{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("huaiyang.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineHy:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("huaiyangBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineHui{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("hui.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineHui:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("huiBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineMin{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("min.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineMin:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("minBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineX{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("xiang.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineX:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("xiangBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineZj{
+	/*margin-left:75px;
+	margin-right:75px;*/
+	display:inline-block;
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("zj.jpeg");
+	background-size: cover;
+	color:transparent;
+}
+
+.cuisineZj:hover{
+/*	margin-left:75px;
+	margin-right:75px;*/
+	position: relative;
+	width:300px;
+	height:300px;
+	background-image: url("zjBlur.jpeg");
+	background-size: cover;
+	color:black;
+}
+
+.cuisineT{
+	margin: 0px;
+	top:4%;
+	position: absolute;
+	width: 100%;
+	font-family: 'Liu Jian Mao Cao', cursive;
+	font-size: 32px;
+	text-align: center;
+}
+
+.cuisineInstruct{
+	position:absolute;
+	text-align: right;
+	padding-right: 30px;
+	width:102%;
+	height:60%;
+	right:0%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color:white;
+	background-color: #C19D53;
+}
+
+.cuisineText{
+	margin: 0px;
+	left: 5%;
+	top:28%;
+	position: absolute;
+	width: 90%;
+	height:70%;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+}
+
+.cuisineDes{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.otherDes{
+	position: relative;
+	left: 5%;
+	width:90%;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.otherBox{
+	width:90%;
+	left:5%;
+	position:relative;
+}
+
+.otherMain{
+	display:inline-block;
+	width:70%;
+	height:650px;
+	left:5%;
+	position:relative;
+}
+
+.otherTitle{
+	font-size: 32px;
+	font-family: 'Oswald', sans-serif;
+	/*width:70%;*/
+	/*left:5%;*/
+	position:absolute;
+	padding: 5px;
+	width: 100%;
+	background-color: #C19D53;
+}
+
+.otherText{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	/*width:70%;*/
+	/*left:5%;*/
+	top:420px;
+	position:absolute;
+}
+
+.otherFact{
+	/*top:100px;*/
+	bottom:230px;
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	display:inline-block;
+	width:100%;
+	padding-left:80%;
+	position:relative;
+}
+
+.otherPic{
+	top:100px;
+	width:50%;
+	left:25%;
+	position:absolute;
 }
